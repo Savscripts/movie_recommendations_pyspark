@@ -1,7 +1,3 @@
-**BUAN 5315 02 Big Data Analysis Date: June 10, 2025**
-
-**Savgun Kaur**
-
 **Business Proposal Name**-  Personalized Recommendation Engine 
 
 **Project URL -**
@@ -13,7 +9,6 @@ A movie review-aggregation project was developed to enhance
 user engagement and retention through personalized recommendations. The
 project implements a collaborative filtering engine that generates
 individualized movie suggestions based on user behavior patterns.
-
 
 Inspired by the success of recommendation systems in major streaming
 platforms, the project evaluates whether this system can deliver
